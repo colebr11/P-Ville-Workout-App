@@ -4,10 +4,12 @@ A customizable interval training app that guides workouts with timed sprint/rest
 Download the zip file to run program.
 Extract WorkoutTimer folder from downloaded zip.
 
+Must have 
+
 Terminal Commands (in WorkoutTimer Folder):
 1. npm install
-2. npx expo install --fix
-3. npm install expo@~54.0.0
-4. npx expo install --fix
-5. npx expo install --fix -- --legacy-peer-deps
-6. npx expo start --tunnel          
+2. npm install expo@~54.0.0
+3. npx expo install --fix -- --legacy-peer-deps
+4. npx expo start --tunnel
+
+
