@@ -2,6 +2,8 @@
 A customizable interval training app that guides workouts with timed sprint/rest cycles, reps, and sets, automatically tracking progress so you can focus on performance instead of the clock.
 
 Download the zip file to run program.
+Extract WorkoutTimer folder from downloaded zip.
+
 Terminal Commands (in WorkoutTimer Folder):
 1. npm install
 2. npx expo install --fix
